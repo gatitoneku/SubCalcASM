@@ -1,6 +1,8 @@
 ;@2016
 ;Tema: Program Kalkulator Subnetting IPv4
 ;Author: M. Yusuf Irfan H.
+         Widian Baron
+         Kevin Sirait
 ;Skenario:
 ;   -User memasukkan input alamat IPv4 dan subnetmasknya
 ;   -Program akan menghitung Network Address, Wildcard Mask, FUA, LUA dan BA
